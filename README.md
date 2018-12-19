@@ -1,5 +1,11 @@
 # detector_mw
 
+Requeriments:
+-Python
+-Database of API Calls for both benign files and malware
+-Tensorflow
+
+
 This work is a neural network made to optimize the detection of malwares by classifiers.
 
 It is an Autoencoder, made using Tensorflow and trained to "clean" Windows API calls from executable files.
